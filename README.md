@@ -2,8 +2,8 @@
 
 
 
-
-Hi, This content is to increase your knowledge and skill as well. So Share your knowledge like this because knowledge is power
+Hi, This content is for Security Researcher, Hacker, Bug Bounty Hunter, Penetration Tester.. 
+This content is to increase your knowledge and skill as well. So Share your knowledge like this because knowledge is power
 
 
 
