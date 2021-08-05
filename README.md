@@ -26,7 +26,7 @@ This content is to increase your knowledge and skill as well. So, Share your kno
 
 
 ### security
- - [blogs for web](#blogs)
+ - [Blogs For Web](#blogs)
  - [CVE](#cve)
 
 
