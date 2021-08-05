@@ -63,6 +63,7 @@ This content is to increase your knowledge and skill as well. So, Share your kno
 ### cve
    - [cve](https://cve.mitre.org/)
    - [cve details](https://www.cvedetails.com/)
+   - [nvd.nist.gov](https://nvd.nist.gov/vuln/search)
    - [exploit-db](https://www.exploit-db.com/)
    - [snyk.io](https://snyk.io/)
    - [cyber security help](https://www.cybersecurity-help.cz/vdb/)
