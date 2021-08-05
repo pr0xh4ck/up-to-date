@@ -27,6 +27,7 @@ This content is to increase your knowledge and skill as well. So Share your know
 
 ### security
  - [blogs for web](#blogs)
+ - [CVE](#cve)
 
 
 
@@ -59,9 +60,12 @@ This content is to increase your knowledge and skill as well. So Share your know
    - [the hacker news](https://thehackernews.com/)
    - [cve](https://cve.mitre.org/)
    
-
-
-
+### cve
+   - [cve](https://cve.mitre.org/)
+   - [cve details](https://www.cvedetails.com/)
+   - [exploit-db](https://www.exploit-db.com/)
+   - [snyk.io](https://snyk.io/)
+   - [cyber security help](https://www.cybersecurity-help.cz/vdb/)
 
 
 
