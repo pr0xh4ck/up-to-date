@@ -2,7 +2,7 @@
 
 
 
-Hi, This content is for Security Researcher, Hacker, Bug Bounty Hunter, Penetration Tester.. 
+Hi, This content is for Security Researcher, Hacker, Bug Bounty Hunter & Penetration Tester.. 
 
 
 
