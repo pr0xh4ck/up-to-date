@@ -37,6 +37,7 @@ Hi, This content is for Security Researcher, Hacker, Bug Bounty Hunter & Penetra
 
 ### blogs
    - [pentester lab](https://pentesterlab.com/)
+   - [pentester lab bootcamp](https://pentesterlab.com/bootcamp)
    - [pentester land](https://pentester.land/list-of-bug-bounty-writeups.html?fbclid=IwAR2mmTxh70LqvtqZEtZo3-zL6_LGUR4Cr3H1NtYctKGQKpFA9NEHs5U4kl8)
    - [portswigger web security](https://portswigger.net/web-security/all-materials/detailed)
    - [portswigger blogs](https://portswigger.net/blog)
