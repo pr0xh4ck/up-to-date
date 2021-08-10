@@ -59,6 +59,7 @@ Hi, This content is for Security Researcher, Hacker, Bug Bounty Hunter & Penetra
    - [the register](https://www.theregister.com/)
    - [threat post](https://threatpost.com/)
    - [the hacker news](https://thehackernews.com/)
+   - [Detectify Lab](https://labs.detectify.com/)
    
 ### cve
    - [cve](https://cve.mitre.org/)
