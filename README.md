@@ -73,30 +73,14 @@ Hi, This content is for Security Researcher, Hacker, Bug Bounty Hunter & Penetra
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### programing
+
+ - [w3school](https://www.w3schools.com/)
+
+
+
+
+
+
+
+
