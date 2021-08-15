@@ -1,6 +1,7 @@
 > Caution
 ```
 Hi there,
+If you wanna stay updated always in the Infosec community, it's only for you.
 This content is for Security researchers, hackers, Bug Bounty Hunter & Penetration Tester.
 ```
 
