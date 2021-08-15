@@ -1,9 +1,8 @@
-> Educational Purpose Only
-
-
-
-Hi, This content is for Security Researcher, Hacker, Bug Bounty Hunter & Penetration Tester.. 
-
+> Caution
+```
+Hi there,
+This content is for Security researchers, hackers, Bug Bounty Hunter & Penetration Tester.
+```
 
 
 
