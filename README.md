@@ -77,6 +77,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
 
  - [w3school](https://www.w3schools.com/)
  - [programiz](https://www.programiz.com/)
+ - [javatpoint](https://www.javatpoint.com/)
 
 
 
