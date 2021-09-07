@@ -26,7 +26,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
 
 
 ### security
- - [Blogs For Web](#blogs)
+ - [Blogs](#blogs)
  - [CVE](#cve)
 
 
@@ -60,6 +60,15 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
    - [threat post](https://threatpost.com/)
    - [the hacker news](https://thehackernews.com/)
    - [Detectify Lab](https://labs.detectify.com/)
+   - [developer.mozilla](https://developer.mozilla.org/en-US/)
+   
+   
+   
+   
+   
+   
+   
+   
    
 ### cve
    - [cve](https://cve.mitre.org/)
@@ -73,11 +82,17 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
 
 
 
+
+
+
+
+
 ### programing
 
  - [w3school](https://www.w3schools.com/)
  - [programiz](https://www.programiz.com/)
  - [javatpoint](https://www.javatpoint.com/)
+ - [javascripttutorial](https://www.javascripttutorial.net/)
 
 
 
