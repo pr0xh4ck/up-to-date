@@ -61,6 +61,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
    - [the hacker news](https://thehackernews.com/)
    - [Detectify Lab](https://labs.detectify.com/)
    - [developer.mozilla](https://developer.mozilla.org/en-US/)
+   - [bugbounty hunter](https://www.bugbountyhunter.com/)
    
    
    
