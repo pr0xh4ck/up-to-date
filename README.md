@@ -64,6 +64,8 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
    - [bugbounty hunter](https://www.bugbountyhunter.com/)
    - [pwndefend](https://www.pwndefend.com/)
    - [thehackernews](https://thehackernews.com/)
+   - [bleepingcomputer](https://www.bleepingcomputer.com/)
+   - [softwarefirm](https://www.softwarefirms.co/blog/)
    
    
    
