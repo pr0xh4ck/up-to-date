@@ -53,6 +53,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
    - [synack blogs](https://www.synack.com/blog/)
    - [cobalt blogs](https://cobalt.io/blog)
    - [bugcrowd blogs](https://www.bugcrowd.com/blog/)
+   - [yeswehack](https://blog.yeswehack.com/)
    - [infosec write ups](https://infosecwriteups.com/)
    - [mozilla blogs](https://blog.mozilla.org/en/)
    - [bug bounty book](https://gowsundar.gitbook.io/book-of-bugbounty-tips/intigrity-tips)
