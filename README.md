@@ -63,6 +63,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
    - [developer.mozilla](https://developer.mozilla.org/en-US/)
    - [bugbounty hunter](https://www.bugbountyhunter.com/)
    - [pwndefend](https://www.pwndefend.com/)
+   - [thehackernews](https://thehackernews.com/)
    
    
    
