@@ -69,6 +69,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
    - [softwarefirm](https://www.softwarefirms.co/blog/)
    - [secjuice](https://www.secjuice.com/)
    - [kitploit](https://www.kitploit.com/)
+   - [infosecurity-magazine](https://www.infosecurity-magazine.com/)
    
    
    
