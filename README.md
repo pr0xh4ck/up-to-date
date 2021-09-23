@@ -70,6 +70,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
    - [secjuice](https://www.secjuice.com/)
    - [kitploit](https://www.kitploit.com/)
    - [infosecurity-magazine](https://www.infosecurity-magazine.com/)
+   - [securitymagazine](https://www.securitymagazine.com/)
    
    
    
