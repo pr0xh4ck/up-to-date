@@ -103,6 +103,10 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
  - [programiz](https://www.programiz.com/)
  - [javatpoint](https://www.javatpoint.com/)
  - [javascripttutorial](https://www.javascripttutorial.net/)
+ - [100-days-of-code-log](https://github.com/james-priest/100-days-of-code-log) - My #100DaysOfCode log
+ - 
+
+
 
 
 
