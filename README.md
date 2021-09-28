@@ -11,7 +11,8 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
 
 
 ## Agenda 
- - [Hacking & Security](#security)
+ - [Blogs](#blogs)
+ - [CVE](#cve)
  - [Programing](#programing)
 
 ---
@@ -20,14 +21,6 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
 
 
 
-
-
-
-
-
-### security
- - [Blogs](#blogs)
- - [CVE](#cve)
 
 
 
@@ -76,9 +69,8 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
    
    
    
-   
-   
-   
+----   
+      
    
 ### cve
    - [cve](https://cve.mitre.org/)
@@ -94,7 +86,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
 
 
 
-
+-----
 
 
 ### programing
