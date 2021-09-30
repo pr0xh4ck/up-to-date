@@ -64,6 +64,9 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
    - [kitploit](https://www.kitploit.com/)
    - [infosecurity-magazine](https://www.infosecurity-magazine.com/)
    - [securitymagazine](https://www.securitymagazine.com/)
+   - [securityweekly](https://securityweekly.com/blog)
+   - [csoonline](https://www.csoonline.com/)
+   - [gbhackers/](https://gbhackers.com/)
    
    
    
