@@ -68,6 +68,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
    - [csoonline](https://www.csoonline.com/)
    - [gbhackers/](https://gbhackers.com/)
    - [sans](https://www.sans.org/blog/)
+   - [reconshell](https://reconshell.com/)
    
    
    
