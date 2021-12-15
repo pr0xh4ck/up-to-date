@@ -102,7 +102,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
  - [javatpoint](https://www.javatpoint.com/)
  - [javascripttutorial](https://www.javascripttutorial.net/)
  - [100-days-of-code-log](https://github.com/james-priest/100-days-of-code-log) - My #100DaysOfCode log
- - 
+ - [w3resource](https://www.w3resource.com/index.php)
 
 
 
