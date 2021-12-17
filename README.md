@@ -79,6 +79,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
       
    
 ### cve
+   - [cvetrends](https://cvetrends.com/)
    - [cve](https://cve.mitre.org/)
    - [cve details](https://www.cvedetails.com/)
    - [nvd.nist.gov](https://nvd.nist.gov/vuln/search)
