@@ -14,6 +14,7 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
  - [Blogs](#blogs)
  - [CVE](#cve)
  - [Programing](#programing)
+ - [Tips](#Tips)
 
 ---
 
@@ -107,8 +108,14 @@ This content is for Security researchers, hackers, Bug Bounty Hunter & Penetrati
 
 
 
-
-
+### Tips
+```
+1. READ WRITEUPS
+2. CVE
+3. TWITTER
+4. PUBLIC REPORTS
+5. Communicate with the Community
+```
 
 
 
