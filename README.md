@@ -5,6 +5,7 @@
 ## Agenda 
  - [Blogs](#blogs)
  - [CVE](#cve)
+ - [CWE](#cwe)
  - [Programing](#programing)
  - [Tips](#Tips)
 
@@ -73,7 +74,7 @@
    
 ### cve
    - [cvetrends](https://cvetrends.com/)
-   - [cve](https://cve.mitre.org/)
+   - [cve.mitre.org](https://cve.mitre.org/)
    - [cve details](https://www.cvedetails.com/)
    - [nvd.nist.gov](https://nvd.nist.gov/vuln/search)
    - [exploit-db](https://www.exploit-db.com/)
@@ -82,13 +83,20 @@
 
 
 
-
-
-
-
 -----
 
 
+### cwe
+
+- [cwe.mitre.org](https://cwe.mitre.org/)
+
+
+
+
+
+
+
+-------
 ### programing
 
  - [w3school](https://www.w3schools.com/)
