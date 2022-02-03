@@ -4,6 +4,7 @@
 
 ## Agenda 
  - [Blogs](#blogs)
+ - [Labs](#labs)
  - [CVE](#cve)
  - [CWE](#cwe)
  - [Programing](#programing)
@@ -69,6 +70,34 @@
    
    
    
+   
+   
+   
+   
+-------
+
+
+### labs
+
+- [Portswigger lab](https://portswigger.net/web-security/all-labs)
+- [Hackerone ctf](https://ctf.hacker101.com/ctf)
+- [Tryhackme](https://tryhackme.com/dashboard)
+- [Hackthebox](https://www.hackthebox.com/)
+- [Bugbountyhunter](https://www.bugbountyhunter.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----   
       
    
