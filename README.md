@@ -65,6 +65,7 @@
    - [sans](https://www.sans.org/blog/)
    - [reconshell](https://reconshell.com/)
    - [securityzines](https://securityzines.com/)
+   - [detectify](https://labs.detectify.com/)
    
    
    
