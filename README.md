@@ -112,6 +112,7 @@
    - [snyk.io](https://snyk.io/)
    - [cyber security help](https://www.cybersecurity-help.cz/vdb/)
    - [CVEs](https://github.com/RhinoSecurityLabs/CVEs) - A collection of proof-of-concept exploit scripts written by the team at Rhino Security Labs for various CVEs. 
+   - [cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC. 
 
 
 
