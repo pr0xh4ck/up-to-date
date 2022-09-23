@@ -8,7 +8,7 @@
  - [CVE](#cve)
  - [CWE](#cwe)
  - [Programing](#programing)
- - [Tips](#Tips)
+
 
 ---
 
@@ -70,7 +70,9 @@
    - [csoonline](https://www.csoonline.com/)
    - [infosecurity-magazine](https://www.infosecurity-magazine.com/)
    - [danielmiessler](https://danielmiessler.com/)
-   
+   - [blog.securitybreached](https://blog.securitybreached.org/)
+   - [securityidiots](http://www.securityidiots.com)
+   - [freebuf](https://www.freebuf.com/)
    
    
    
@@ -142,17 +144,6 @@
  - [javascripttutorial](https://www.javascripttutorial.net/)
  - [100-days-of-code-log](https://github.com/james-priest/100-days-of-code-log) - My #100DaysOfCode log
  - [w3resource](https://www.w3resource.com/index.php)
-
-
-
-### Tips
-```
-1. READ WRITEUPS
-2. CVE
-3. TWITTER
-4. PUBLIC REPORTS
-5. Communicate with the Community
-```
 
 
 
