@@ -65,7 +65,10 @@
    - [sans](https://www.sans.org/blog/)
    - [reconshell](https://reconshell.com/)
    - [securityzines](https://securityzines.com/)
-   - [detectify](https://labs.detectify.com/)
+   - [gbhackers](https://gbhackers.com/)
+   - [allinfosecnews](https://allinfosecnews.com/)
+   - [csoonline](https://www.csoonline.com/)
+   - [infosecurity-magazine](https://www.infosecurity-magazine.com/)
    
    
    
