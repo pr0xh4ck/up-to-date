@@ -69,6 +69,7 @@
    - [allinfosecnews](https://allinfosecnews.com/)
    - [csoonline](https://www.csoonline.com/)
    - [infosecurity-magazine](https://www.infosecurity-magazine.com/)
+   - [danielmiessler](https://danielmiessler.com/)
    
    
    
