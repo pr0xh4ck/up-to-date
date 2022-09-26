@@ -73,6 +73,7 @@
    - [blog.securitybreached](https://blog.securitybreached.org/)
    - [securityidiots](http://www.securityidiots.com)
    - [freebuf](https://www.freebuf.com/)
+   - [cyetrics](https://tech-blog.cymetrics.io/en/)
    
    
    
